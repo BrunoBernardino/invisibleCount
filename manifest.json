@@ -6,7 +6,9 @@
   "version": "1.0.0",
 
   "icons": {
-    "512": "icon.png"
+    "512": "icon.png",
+    "256": "icon256.png",
+    "128": "icon128.png"
   },
 
   "content_scripts": [
